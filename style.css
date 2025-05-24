@@ -46,3 +46,12 @@ footer a:hover {
     width: 100%;
     height: auto;
 }
+.col-md-4{
+    margin-bottom: 30px;
+}
+.card-img-top{
+    height: 325px;
+}
+.carousel-inner h3{
+    margin-top: 45px;
+}
